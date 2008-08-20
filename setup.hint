@@ -1,0 +1,4 @@
+sdesc: "Fast, lightweight distributed source control management system"
+ldesc: "Distributed, efficient Python based source control system."
+category: Devel Python
+requires: cygwin python
