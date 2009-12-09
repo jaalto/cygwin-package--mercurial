@@ -1,28 +1,26 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: mercurial-1.3.1-15 -- Python based distributed version control (DVCS)
-
-For Cygwin 1.5
+Subject: [1.7] Updated: mercurial-1.4-1 -- Python based distributed version control (DVCS)
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://www.selenic.com/mercurial/
+Homepage: http://mercurial.selenic.com
 License : GPL
 
 Distributed, efficient Python based source control system. Mercurial is
-designed for efficient handling of very large distributed projects. Features
-include:
+designed for efficient handling of very large distributed projects.
+Features include:
 
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See http://www.selenic.com/mercurial/wiki/index.cgi/WhatsNew
+http://mercurial.selenic.com/wiki/WhatsNew
 
 INSTALL OR UPGRADE NOTES
 ========================
 
 Standard Cygwin install. For more information, see
-http://www.selenic.com/mercurial/wiki/index.cgi/UpgradeNotes
+http://mercurial.selenic.com/wiki/UpgradeNotes
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
