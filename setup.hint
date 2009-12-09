@@ -1,4 +1,4 @@
-sdesc: "Fast, lightweight distributed source control management system"
+sdesc: "Python based distributed version control system (DVCS)"
 ldesc: "Distributed, efficient Python based source control system."
 category: Devel Python
 requires: cygwin python
