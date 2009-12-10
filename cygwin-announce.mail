@@ -9,7 +9,6 @@ License : GPL
 
 Distributed, efficient Python based source control system. Mercurial is
 designed for efficient handling of very large distributed projects.
-Features include:
 
 CHANGES SINCE LAST RELEASE
 ==========================
