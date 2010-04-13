@@ -51,15 +51,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack mercurial-1.4.2-1-src.tar.bz2
+  unpack mercurial-1.5-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./mercurial*.sh all
 
 This will create:
-  mercurial-1.4.2-1.tar.bz2
-  mercurial-1.4.2-1-src.tar.bz2
+  mercurial-1.5-1.tar.bz2
+  mercurial-1.5-1-src.tar.bz2
 
 -------------------------------------------
 
@@ -69,6 +69,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 1.5-1 -----
+- New upstream release 2010-03-19 Jari Aalto
 
 ----- version 1.4.2-1 -----
 - New upstream release 2010-01-24 Jari Aalto
