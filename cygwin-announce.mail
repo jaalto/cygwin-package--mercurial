@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: mercurial-1.5-1 1.5.4-1 -- Python based distributed version control (DVCS)
+Subject: Updated: mercurial-1.5.4-1 -- Python based distributed version control (DVCS)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -14,7 +14,8 @@ designed for efficient handling of very large distributed projects.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-http://mercurial.selenic.com/wiki/WhatsNew
+- Built for Python 2.6
+- See http://mercurial.selenic.com/wiki/WhatsNew
 
 INSTALL OR UPGRADE NOTES
 ========================
