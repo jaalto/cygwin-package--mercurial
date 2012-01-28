@@ -17,6 +17,17 @@ include:
 * Integrated stand-alone web interface
 * Small Python codebase
 
+About certificates (HTTPS):
+
+  http://mercurial.selenic.com/wiki/CACertificates
+
+  Mercurial has improved its HTTPS support in the 1.7.x series. When
+  connecting to an HTTPS server, it will now verify the server's
+  certificate correctly and reject the connection if the server
+  identity can't be confirmed - but only if Certification Authorities
+  (CAs) have been configured. As of 1.7.3, Mercurial will warn if CAs
+  haven't been configured.
+
 Runtime requirements:
   cygwin
   python
