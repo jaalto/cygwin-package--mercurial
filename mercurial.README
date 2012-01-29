@@ -64,7 +64,7 @@ Language:
 
 Build instructions:
 <<<<<<< HEAD
-  unpack mercurial-1.9.3-1-src.tar.bz2
+  unpack mercurial-2.1-1-src.tar.bz2
 =======
   unpack mercurial-1.9.2-1-src.tar.bz2
 >>>>>>> 1f4f45ab9f1b26a5b896e1811a516ccdf4c766cb
@@ -74,8 +74,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-1.9.3-1.tar.bz2
-  mercurial-1.9.3-1-src.tar.bz2
+  mercurial-2.1-1.tar.bz2
+  mercurial-2.1-1-src.tar.bz2
 
 -------------------------------------------
 
@@ -85,6 +85,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 2.1-1 -----
+- New upstream release 2012-01-28 Jari Aalto
 
 ----- version 1.9.3-1 -----
 - New upstream release 2011-10-29 Jari Aalto
@@ -138,4 +141,4 @@ Port Notes:
   on docbook.
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2011 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2007-2012 Jari Aalto; Licensed under GPL v2 or later
