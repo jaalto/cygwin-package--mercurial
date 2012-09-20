@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: mercurial-2.1-1 -- Python based distributed version control (DVCS)
+Subject: Updated: mercurial-2.3.1-1 -- Python based distributed version control (DVCS)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -19,7 +19,9 @@ See http://mercurial.selenic.com/wiki/WhatsNew
 INSTALL OR UPGRADE NOTES
 ========================
 
-Standard Cygwin install. For more information, see
+Standard install.
+
+For more information, see
 http://mercurial.selenic.com/wiki/UpgradeNotes
 
 CYGWIN INSTALLATION INFORMATION
@@ -31,7 +33,7 @@ system. Then, run setup and answer all of the questions. You'll find
 the package listed in the "All" category. After installation, read the
 documentation at directories:
 
-    /usr/share/doc/<package-version>/*
+    /usr/share/doc/<package>/*
     /usr/share/doc/Cygwin/<package-version>.README
 
 If you have questions or comments, please send them to the Cygwin
