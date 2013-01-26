@@ -64,7 +64,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-2.3.1-1-src.tar.bz2
+  unpack mercurial-2.4.2-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -73,8 +73,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-2.3.1-1.tar.bz2
-  mercurial-2.3.1-1-src.tar.bz2
+  mercurial-2.4.2-1.tar.bz2
+  mercurial-2.4.2-1-src.tar.bz2
 
 -------------------------------------------
 
@@ -84,6 +84,10 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 2.4.2-1 -----
+- Python 2.7
+- New upstream release 2013-01-26 Jari Aalto
 
 ----- version 2.3.1-1 -----
 - New upstream release 2012-09-15 Jari Aalto
@@ -143,4 +147,4 @@ Port Notes:
   on docbook.
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2012 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2007-2013 Jari Aalto; Licensed under GPL v2 or later
