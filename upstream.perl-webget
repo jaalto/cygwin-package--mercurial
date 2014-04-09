@@ -1,2 +1,2 @@
 tag1: mercurial
-http://www.selenic.com/mercurial/release/ pregexp:tar.gz file:mercurial-0.8.1.tar.gz new: x:
+http://www.selenic.com/mercurial/release/ pregexp:-[0-9.]+.tar.gz file:mercurial-0.8.1.tar.gz new: x:
