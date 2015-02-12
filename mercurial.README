@@ -64,7 +64,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-3.0.1-1-src.tar.bz2
+  unpack mercurial-3.3-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -73,8 +73,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-3.0.1-1.tar.xz
-  mercurial-3.0.1-1-src.tar.xz
+  mercurial-3.3-1.tar.xz
+  mercurial-3.3-1-src.tar.xz
 
 -------------------------------------------
 
@@ -84,6 +84,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 3.3-1 -----
+- New upstream release 2015-02-12 Jari Aalto
 
 ----- version 3.0.1-1 -----
 - New upstream release 2014-06-13 Jari Aalto
@@ -160,4 +163,4 @@ Port Notes:
   on docbook.
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2014 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2007-2015 Jari Aalto; Licensed under GPL v2 or later

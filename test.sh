@@ -1,4 +1,4 @@
-#!/bin/sh
+w#!/bin/sh
 # Test basic functionality
 
 set -e
@@ -48,7 +48,7 @@ hg --version ||
 {
     echo "[ERROR] You must install package before testing it."
     echo "[ERROR] It depends on Python modules in certain locations.";
-    exit    
+    exit
 }
 
 EMAIL=john.doe@example.com
