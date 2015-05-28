@@ -1,4 +1,4 @@
-w#!/bin/sh
+#!/bin/sh
 # Test basic functionality
 
 set -e
