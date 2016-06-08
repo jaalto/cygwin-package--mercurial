@@ -14,8 +14,7 @@ designed for efficient handling of very large distributed projects.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-- Built for Python 2.7
-- See http://mercurial.selenic.com/wiki/WhatsNew
+See http://mercurial.selenic.com/wiki/WhatsNew
 
 INSTALL OR UPGRADE NOTES
 ========================
