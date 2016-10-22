@@ -29,13 +29,13 @@ About certificates (HTTPS):
   haven't been configured.
 
 Runtime requirements:
-  cygwin
   python
 
 Build requirements:
   asciidoc
   cygwin
   python
+  python-devel
 
 Canonical homepage:
   http://freecode.com/projects/mercurial
