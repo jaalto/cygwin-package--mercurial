@@ -5,7 +5,7 @@ Subject: Updated: mercurial 3.9.2-1 -- Python based distributed version control 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://mercurial.selenic.com
+Homepage: https://www.mercurial-scm.org
 License : GPL-2+
 
 Distributed, efficient Python based source control system. Mercurial is
