@@ -33,19 +33,18 @@ Runtime requirements:
 
 Build requirements:
   asciidoc
-  cygwin
   python
   python-devel
 
 Canonical homepage:
-  http://freecode.com/projects/mercurial
-  http://mercurial.selenic.com
+  https://www.mercurial-scm.org
   http://packages.debian.org/mercurial
 
 Canonical download:
   See above
 
 Version control repository:
+  https://www.mercurial-scm.org/wiki/DeveloperRepos
 
 Upstream contact:
   Author: Matt Mackall <mpm@selenic.com>
