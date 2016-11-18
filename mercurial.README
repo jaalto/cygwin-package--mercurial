@@ -63,7 +63,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-3.9.2-1-src.tar.bz2
+  unpack mercurial-4.0-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -72,8 +72,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-3.9.2-1.tar.xz
-  mercurial-3.9.2-1-src.tar.xz
+  mercurial-4.0-1.tar.xz
+  mercurial-4.0-1-src.tar.xz
 
 -------------------------------------------
 
@@ -83,6 +83,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 4.0-1 -----
+- New upstream release 2016-11-18 Jari Aalto
 
 ----- version 3.9.2-1 -----
 - New upstream release 2016-10-22 Jari Aalto
