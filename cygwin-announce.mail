@@ -14,7 +14,7 @@ designed for efficient handling of very large distributed projects.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See http://mercurial.selenic.com/wiki/WhatsNew
+https://www.mercurial-scm.org/wiki/WhatsNew
 
 INSTALL OR UPGRADE NOTES
 ========================
@@ -22,7 +22,7 @@ INSTALL OR UPGRADE NOTES
 Standard install.
 
 For more information, see
-http://mercurial.selenic.com/wiki/UpgradeNotes
+https://www.mercurial-scm.org/wiki/UpgradeNotes
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
