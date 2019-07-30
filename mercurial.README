@@ -33,6 +33,7 @@ Runtime requirements:
 
 Build requirements:
   asciidoc
+  gettext-devel
   python
   python-devel
 
