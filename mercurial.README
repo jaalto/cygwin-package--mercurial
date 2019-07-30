@@ -63,7 +63,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-4.3.2-1-src.tar.bz2
+  unpack mercurial-5.0.2-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -72,8 +72,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-4.3.2-1.tar.xz
-  mercurial-4.3.2-1-src.tar.xz
+  mercurial-5.0.2-1.tar.xz
+  mercurial-5.0.2-1-src.tar.xz
 
 -------------------------------------------
 
@@ -83,6 +83,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 5.0.2-1 -----
+- New upstream release 2019-07-30 Jari Aalto
 
 ----- version 4.3.2-1 -----
 - New upstream release 2017-09-25 Jari Aalto
@@ -186,4 +189,4 @@ Port Notes:
   on docbook.
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2017 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2007-2019 Jari Aalto; Licensed under GPL v2 or later
