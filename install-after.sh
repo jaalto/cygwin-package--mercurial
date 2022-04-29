@@ -30,7 +30,7 @@ SetPythonVersion ()
 
     [ "$python" ] || return 2
 
-    sed --in-place "/#!/s,python\( \|$\),$python," $dir/*
+    sed --in-place "/#!/s,python[0-9. ]*$,$python," $dir/*
 }
 
 Main()
