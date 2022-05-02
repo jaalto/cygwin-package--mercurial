@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Python based distributed version control system (DVCS)"
 ldesc: "Distributed, efficient Python based source control system."
 category: Devel Python
