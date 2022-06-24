@@ -65,7 +65,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-5.7-3-src.tar.bz2
+  unpack mercurial-6.1.4-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -74,8 +74,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-5.7-3.tar.xz
-  mercurial-5.7-3-src.tar.xz
+  mercurial-6.1.4-1.tar.xz
+  mercurial-6.1.4-1-src.tar.xz
 
 -------------------------------------------
 
@@ -85,6 +85,10 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 6.1.4-1 -----
+- New upstream release 2022-06-24 Jari Aalto
+- Python 3.9.10
 
 ----- version 5.7-3 -----
 - New upstream release 2022-04-29 Jari Aalto
