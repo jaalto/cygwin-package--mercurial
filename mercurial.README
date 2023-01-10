@@ -65,7 +65,7 @@ Language:
 
 Build instructions:
 
-  unpack mercurial-6.1.4-1-src.tar.bz2
+  unpack mercurial-6.3.2-1-src.tar.bz2
 
   if you use setup to install this src package, it will be
   unpacked under /usr/src automatically
@@ -74,8 +74,8 @@ Build instructions:
   ./mercurial*.sh all
 
 This will create:
-  mercurial-6.1.4-1.tar.xz
-  mercurial-6.1.4-1-src.tar.xz
+  mercurial-6.3.2-1.tar.xz
+  mercurial-6.3.2-1-src.tar.xz
 
 -------------------------------------------
 
@@ -85,6 +85,9 @@ Files included in the binary distro:
 ------------------
 
 Port Notes:
+
+----- version 6.3.2-1 -----
+- New upstream release 2023-01-10 Jari Aalto
 
 ----- version 6.1.4-1 -----
 - New upstream release 2022-06-24 Jari Aalto
@@ -218,4 +221,4 @@ Port Notes:
   on docbook.
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2007-2022 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2007-2023 Jari Aalto; Licensed under GPL v2 or later
