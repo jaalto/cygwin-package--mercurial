@@ -3,4 +3,4 @@ sdesc: "Python based distributed version control system (DVCS)"
 ldesc: "Distributed, efficient Python based source control system."
 category: Devel Python
 requires: python39 ca-certificates
-license: GPL-2-or-later
+license: GPL-2.0-or-later
