@@ -40,7 +40,7 @@ Build requirements:
 
 Canonical homepage:
   https://www.mercurial-scm.org
-  http://packages.debian.org/mercurial
+  https://packages.debian.org/mercurial
 
 Canonical download:
   See above
@@ -56,7 +56,7 @@ Mailing list:
   Mercurial mailing list <mercurial@selenic.com>
 
 License:
-  GPL-2+
+  GPL-2-or-later
 
 Language:
   Python, C
